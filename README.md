@@ -65,4 +65,4 @@ Exercise 1: Create an Azure App Service resource by using a Docker container ima
 
 *select Modify Status Code, and then select the Test tab.
 
-![Image](https://github.com/user-attachments/assets/0049c7ce-caec-4ffa-84e3-ebdc203755ec
+![Image](https://github.com/user-attachments/assets/0049c7ce-caec-4ffa-84e3-ebdc203755ec)
